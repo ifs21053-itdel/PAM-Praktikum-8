@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GMAIL</string>
+    <string name="info_nama">Nama Kontak</string>
+    <string name="info_icon">Icon Kontak</string>
+    <string name="info_deskripsi">Deskripsi Kontak</string>
+
+    <string-array name="kontak_nama">
+        <item>Kontak 1</item>
+        <item>Kontak 2</item>
+        <item>Kontak 3</item>
+        <item>Kontak 4</item>
+        <item>Kontak 5</item>
+        <item>Kontak 6</item>
+    </string-array>
+
+    <string-array name="kontak_icon">
+        <item>man1</item>
+        <item>woman1</item>
+        <item>man2</item>
+        <item>woman2</item>
+        <item>man3</item>
+        <item>woman3</item>
+    </string-array>
+
+    <string-array name="kontak_deskripsi">
+        <item>Ini adalah pesan 1</item>
+        <item>Ini adalah pesan 2</item>
+        <item>Ini adalah pesan 3</item>
+        <item>Ini adalah pesan 4</item>
+        <item>Ini adalah pesan 5</item>
+        <item>Ini adalah pesan 6</item>
+    </string-array>
+</resources>

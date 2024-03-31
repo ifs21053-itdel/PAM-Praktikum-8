@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navInbox"
+            android:icon="@drawable/sidebar_inboxes"
+            android:title="All Inboxes" />
+        <item
+            android:id="@+id/navPromotions"
+            android:icon="@drawable/sidebar_promotion"
+            android:title="Promotions" />
+        <item
+            android:id="@+id/navSocial"
+            android:icon="@drawable/sidebar_social"
+            android:title="Social" />
+        <item
+            android:id="@+id/navStarred"
+            android:icon="@drawable/sidebar_star"
+            android:title="Starred" />
+        <item
+            android:id="@+id/navSnoozed"
+            android:icon="@drawable/sidebar_snoozed"
+            android:title="Snoozed" />
+        <item
+            android:id="@+id/navSent"
+            android:icon="@drawable/sidebar_sent"
+            android:title="Sent" />
+        <item
+            android:id="@+id/navDrafts"
+            android:icon="@drawable/sidebar_drafts"
+            android:title="Drafts" />
+        <item
+            android:id="@+id/navAllEmail"
+            android:icon="@drawable/footer_email"
+            android:title="All Email" />
+        <item
+            android:id="@+id/navSpam"
+            android:icon="@drawable/sidebar_spam"
+            android:title="Spam" />
+        <item
+            android:id="@+id/navSettings"
+            android:icon="@drawable/sidebar_setting"
+            android:title="Settings" />
+    </group>
+</menu>
